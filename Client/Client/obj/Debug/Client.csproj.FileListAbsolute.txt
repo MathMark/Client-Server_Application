@@ -1,0 +1,6 @@
+D:\XamarinProjects\Projects\Client\Client\bin\Debug\Client.exe.config
+D:\XamarinProjects\Projects\Client\Client\bin\Debug\Client.exe
+D:\XamarinProjects\Projects\Client\Client\bin\Debug\Client.pdb
+D:\XamarinProjects\Projects\Client\Client\obj\Debug\Client.exe
+D:\XamarinProjects\Projects\Client\Client\obj\Debug\Client.pdb
+D:\XamarinProjects\Projects\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
